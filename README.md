@@ -32,7 +32,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/CHINMAY02CS/Resume-Builder.git
+git clone https://github.com/ayushsingh186312/resume_builder.git
 ```
 2. Navigate to the project directory
 ```bash
@@ -57,4 +57,4 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- [Chinmay Singh]()
+- [Ayush Singh]()
